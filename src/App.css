@@ -13,7 +13,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   font-family: "Red Hat Text", sans-serif;
-  background: #fcf8f6;
+  background-color: #FCF8F6;
 }
 
 img,
@@ -329,6 +329,7 @@ a {
 
 .modal {
   margin: 0 auto;
+  position: unset;
   border: none;
   color: #260f08;
   background-color: #fff;
