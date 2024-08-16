@@ -538,6 +538,10 @@ a {
     gap: 32px;
   }
 
+  .modal {
+    position: absolute
+  }
+
   .productList img {
     width: 250px;
   }
